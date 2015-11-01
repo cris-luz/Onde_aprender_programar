@@ -1,6 +1,6 @@
 # Onde_aprender_programar
 
-- [Codecademy_](https://www.codecademy.com/pt-BR/learn)
+- [Codecademy](https://www.codecademy.com/pt-BR/learn)
 
 - [Free Code Camp](http://freecodecamp.com/)
 
